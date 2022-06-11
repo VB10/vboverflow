@@ -22,6 +22,12 @@ Bir issue görüp sende çözüm atarsan canımsın.
 - Soruya cevabı doğrudan aramak yerine söylenenleri araştırıp nihayi sonuca ulaşıp eğer cevap tamam ise soruyu kapatmak
 - Eğer sorunuz teknik detaylarıyla çok fazla ise velioverflow'a değil stackoverflowa açıp linkini paylaşın.
 
+# Soru sormak icin
+
+- Issues kismina gidip soruyu olusturun.
+- Elinizdeki kod orneginin bir paylasimini yapin.
+- Varsa tag atin flutter swift vs.
+
 ## Nasil soru sorulmamali!
 
 👩‍💻 Ornek seneryo:
